@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Fridge Diary</string>
+    <string name="email_field">Email</string>
+    <string name="password_field">Password</string>
+    <string name="password_confirm_field">Confirm your password</string>
+    <string name="login_message">Welcome to Fridge Diary</string>
+    <string name="login_text">Log in</string>
+    <string name="new_account_text">Need a new account?</string>
+    <string name="register_message">Create a new account</string>
+    <string name="register_text">Register</string>
+    <string name="action_home_text">Home</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="action_search_text">Search</string>
+    <string name="existing_account_text">Already have an account?</string>
+    <string name="username_text">Enter your username</string>
+    <string name="setup_btn_text">Save Account Settings</string>
+    <string name="add_item_name_text">Item name</string>
+    <string name="new_item_expiry_text">Expiry date</string>
+    <string name="new_item_add_btn">Add item</string>
+    <string name="new_item_amount_text">Amount</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_broadcast_text">Broadcast</string>
+    <string name="broadcast_title">Broadcast Title</string>
+    <string name="broadcast_text">Broadcast Text</string>
+
+
+    <string name="edit_amount_text">Amount Left</string>
+</resources>
