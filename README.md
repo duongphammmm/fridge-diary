@@ -1,1 +1,1 @@
-# fridge-diary
+# Fridge Diary
